@@ -58,6 +58,7 @@ class Sighting < ApplicationRecord
 end
 ```
 
+
 We also have one customized controller action:
 
 ```rb
